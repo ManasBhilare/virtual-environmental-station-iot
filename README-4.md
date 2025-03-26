@@ -67,7 +67,4 @@ This project gave hands-on experience in building an end-to-end IoT pipeline usi
 
 ---
 
-## 👨‍💻 Author
 
-**Manas Bhilare**  
-[Your GitHub/LinkedIn/Portfolio if you'd like]
